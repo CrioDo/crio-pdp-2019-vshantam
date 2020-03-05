@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "11623e742264de0c72ddd4d01e849e82",
+    "revision": "58b64ad09261aae938886f62e7cba021",
     "url": "/crio-pdp-2019-vshantam/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crio-pdp-2019-vshantam/static/css/2.b3ff1c62.chunk.css"
   },
   {
-    "revision": "d5acae605af7c7d7e7b3",
+    "revision": "dde7541b4ae1c22830e8",
     "url": "/crio-pdp-2019-vshantam/static/css/main.8ca1969d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crio-pdp-2019-vshantam/static/js/2.dac79489.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d5acae605af7c7d7e7b3",
-    "url": "/crio-pdp-2019-vshantam/static/js/main.cdb2668f.chunk.js"
+    "revision": "dde7541b4ae1c22830e8",
+    "url": "/crio-pdp-2019-vshantam/static/js/main.351c3663.chunk.js"
   },
   {
     "revision": "23fdc506d1a24829776f",
